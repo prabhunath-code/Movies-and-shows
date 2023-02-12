@@ -4,6 +4,7 @@ import Header from "./component/Header/Header";
 import Home from "./component/Home/Home";
 import MovieDetails from "./component/MovieDetails/MovieDetails";
 import Footer from "./component/footer/Footer";
+
 function App() {
   return (
     <div>
